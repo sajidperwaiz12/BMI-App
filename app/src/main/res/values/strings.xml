@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="enter_weight">Enter weight (in kg)</string>
+    <string name="height">Height</string>
+    <string name="enter_heightFt">Feet</string>
+    <string name="enter_heightIn">Inch</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="bmi_status">BMI Status</string>
+    <string name="edt_status">Status</string>
+    <string name="healthy">Healthy</string>
+    <string name="underweight">Underweight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obesity">Obesity</string>
+    <string name="empty_weight">Enter valid weight</string>
+    <string name="empty_height">Enter valid height</string>
+    <string name="underweight_range">Below 18.5</string>
+    <string name="healthy_range">18.5 - 24.9</string>
+    <string name="overweight_range">25.0 - 29.9</string>
+    <string name="obesity_range">30.0 and"\n"Above</string>
+</resources>

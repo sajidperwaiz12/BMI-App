@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     ConstraintLayout mainLayout, innerLayout;
     EditText edtWeight, edtFt, edtIn, edtStatus;
-    AppCompatButton btnBmiTable, btnCalculate, btnReset;
+    Button btnBmiTable, btnCalculate, btnReset;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
